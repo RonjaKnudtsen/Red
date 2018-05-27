@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: ebcd14c90da050b4da00ce8b5b8ca70d
+timeCreated: 1527349396
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: obj0
+    100004: obj1
+    100006: obj2
+    100008: obj3
+    100010: obj4
+    100012: obj5
+    100014: obj6
+    100016: obj7
+    100018: sub01
+    100020: sub02
+    400000: //RootNode
+    400002: obj0
+    400004: obj1
+    400006: obj2
+    400008: obj3
+    400010: obj4
+    400012: obj5
+    400014: obj6
+    400016: obj7
+    400018: sub01
+    400020: sub02
+    2100000: band
+    2100002: eimerboden
+    2100004: henkelahlter
+    2100006: henkel
+    2100008: eimer
+    2100010: niete
+    2100012: nagel
+    2100014: stones
+    2100016: wall
+    2100018: wheel2
+    2100020: door2
+    2100022: door
+    2100024: door_met
+    2100026: window1
+    2100028: wheel3
+    2100030: wheel
+    2100032: wheel_met
+    2100034: roof2
+    2100036: roof
+    2100038: roof_
+    2100040: gruenzeug
+    2100042: bretter
+    2300000: obj0
+    2300002: obj1
+    2300004: obj2
+    2300006: obj4
+    2300008: obj5
+    2300010: obj6
+    2300012: obj7
+    2300014: sub01
+    2300016: sub02
+    3300000: obj0
+    3300002: obj1
+    3300004: obj2
+    3300006: obj4
+    3300008: obj5
+    3300010: obj6
+    3300012: obj7
+    3300014: sub01
+    3300016: sub02
+    4300000: obj0
+    4300002: obj1
+    4300004: obj2
+    4300006: sub01
+    4300008: sub02
+    4300010: obj4
+    4300012: obj5
+    4300014: obj6
+    4300016: obj7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: band
+    second: {fileID: 2100000, guid: 945154c03c4d24a42a38d85dd670615d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bretter
+    second: {fileID: 2100000, guid: 8cba82e1b0c3d514fb99cb4e94900c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door
+    second: {fileID: 2100000, guid: d9d7e114da541d14a8d8d0e871f0a3d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door2
+    second: {fileID: 2100000, guid: 5cb0e69e2cffd654cba20917718cd626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_met
+    second: {fileID: 2100000, guid: d9740567d666f134daffaee0afd15cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eimer
+    second: {fileID: 2100000, guid: 33b0d1497810c1e4bb6c1517ea50e5c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eimerboden
+    second: {fileID: 2100000, guid: 31fe4faac3508b040b8a6c151130207e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gruenzeug
+    second: {fileID: 2100000, guid: e8ad23b4ae73c534ea5e03b57b0f4988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: henkel
+    second: {fileID: 2100000, guid: 22fccb5159bcc0e48b867f5bdd35dda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: henkelahlter
+    second: {fileID: 2100000, guid: 668f01e3eec586c48b1a74bf43862fa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nagel
+    second: {fileID: 2100000, guid: 3b657b0556877014e89e2477e9b44131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: niete
+    second: {fileID: 2100000, guid: d68fe688bcc7a794aa3125635b4a8348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: 2a82745e1e23d3647b1bb518d9253e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof2
+    second: {fileID: 2100000, guid: d6ea313e7b8780f4eac9f39b158a2f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_
+    second: {fileID: 2100000, guid: 58c9a47672d91d14da68538734f64e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stones
+    second: {fileID: 2100000, guid: e8720f4666f9de1458389d0478a89fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: b7802d7314225224f9ddb8642f8642b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel
+    second: {fileID: 2100000, guid: 0ef1b252a9c7e0a41a83a7bf78ba21a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel2
+    second: {fileID: 2100000, guid: 3ee99c93903656c44bc40fcf94e39aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel3
+    second: {fileID: 2100000, guid: 84ad100dfe6bf8443a47121d06091af0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_met
+    second: {fileID: 2100000, guid: 53f2b8913b7e4634b980f49a5ffb9fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window1
+    second: {fileID: 2100000, guid: fe8c1ee2ecf15774cbe0c67be3aa471a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
