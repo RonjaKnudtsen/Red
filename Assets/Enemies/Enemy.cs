@@ -15,7 +15,7 @@ public class Enemy : MonoBehaviour {
     NavMeshAgent agent;
 
     Vector3 startPosition; //Will be set at position before moving. 
-    
+
 
     public float healthAsPercentage {
         get {
@@ -39,7 +39,7 @@ public class Enemy : MonoBehaviour {
         }
     }
 
-    float DistanceToTarget(Vector3 targetPosition){
+    float DistanceToTarget(Vector3 targetPosition) {
         Vector3 displacement = targetPosition - transform.position;
         return displacement.magnitude;
     }

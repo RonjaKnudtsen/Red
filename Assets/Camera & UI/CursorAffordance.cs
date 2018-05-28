@@ -20,7 +20,6 @@ public class CursorAffordance : MonoBehaviour {
     }
 
     void OnLayerChange(int newLayer) {
-        print("NEW LAYER:"+ newLayer);
         switch (newLayer) {
             case walkableLayerNumber:
                 Cursor.SetCursor(walkCursor, cursorHotspot, CursorMode.Auto);
